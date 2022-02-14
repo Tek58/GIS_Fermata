@@ -1,0 +1,142 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ferensay Taxi Station",
+        "description": "Ferensay"
+      },
+      "geometry": {
+        "coordinates": [38.7774 , 9.0565],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gerji to Megnagna",
+        "description": "Place to find Gerji and Megnagna taxi and others"
+      },
+      "geometry": {
+        "coordinates": [38.8232 , 9.0062],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gerji to Bole",
+        "description": "Gerji to bole"
+      },
+      "geometry": {
+        "coordinates": [38.8101 , 8.9831 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Churchil Taxi Station",
+        "description": "Churchil taxi station"
+      },
+      "geometry": {
+        "coordinates": [38.74999015396373 , 9.042270362431195 ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Megenagna Taxi Station",
+        "description": "Place of many bus and taxi"
+      },
+      "geometry": {
+        "coordinates": [38.74761685554566 ,9.011926934609333],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bole 4 kilo Taxi Station",
+        "description": "Bole to 4 kilo road"
+      },
+      "geometry": {
+        "coordinates": [38.74770267704092 , 9.01167179285996],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bulbula Condominium Taxi Station",
+        "description": "Bulbula condiominium"
+      },
+      "geometry": {
+        "coordinates": [38.7858178553648 , 8.954328992603463],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ankorcha Taxi Station",
+        "description": "Ankorcha taxi station road"
+      },
+      "geometry": {
+        "coordinates": [38.802022123679954 , 9.0621190706066],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cherkos square Taxi/Bus Station",
+        "description": "Cherkos square taxi/bus station"
+      },
+      "geometry": {
+        "coordinates": [ 38.88966631675065 , 8.975042442424103],
+        "type": "Point"
+      }
+    },
+	
+    {
+	"type": "Feature",
+      "properties": {
+        "title": "Ayer Tena Taxi Station",
+        "description": "Ayer Ayer Tena Taxi Station"
+      },
+      "geometry": {
+        "coordinates": [38.697065323679944 , 8.985490251290186],
+        "type": "Point"
+        }	
+
+     },
+
+     {
+      "type": "Feature",
+      "properties": {
+        "title": "Jemo Taxi Station",
+        "description": "Jemo Taxi Station road"
+      },
+      "geometry": {
+        "coordinates": [38.71174387813652 , 8.96215132682134],
+        "type": "Point"
+      }
+     },
+      {
+      "type": "Feature",
+      "properties": {
+        "title": "Sumit Condominium 3 taxi station",
+        "description": "Sumit condominium"
+      },
+      "geometry": {
+        "coordinates": [38.85528569298702 , 8.98625248056642],
+        "type": "Point"
+      }
+     }
+
+	
+  ],
+  "type": "FeatureCollection"
+}
